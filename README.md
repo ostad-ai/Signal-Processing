@@ -4,3 +4,4 @@
 3) The definition of **systems** and **signals**. Also, we review the **linear time-invariant (LTI)** systems.
 4) Expressing the output of an **LTI** system using **discrete convolution** and **impulse response**.
 5) Continuous-time **unit impulse** and continuous-time **unit step** along with the **sifting property** are reviewed.
+6) **Fourier series**: **Exponential** and **sine-cosine** forms with some examples are included.
