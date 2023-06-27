@@ -5,3 +5,4 @@
 4) Expressing the output of an **LTI** system using **discrete convolution** and **impulse response**.
 5) Continuous-time **unit impulse** and continuous-time **unit step** along with the **sifting property** are reviewed.
 6) **Fourier series**: **Exponential** and **sine-cosine** forms with some examples are included.
+7) Using **z-transform** for implementing **convolution**.
