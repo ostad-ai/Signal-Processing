@@ -6,3 +6,4 @@
 5) Continuous-time **unit impulse** and continuous-time **unit step** along with the **sifting property** are reviewed.
 6) **Fourier series**: **Exponential** and **sine-cosine** forms with some examples are included.
 7) Using **z-transform** for implementing **convolution**.
+8) **Discrete-time Fourier transform** (DTFT) is expressed along with some Python code.
