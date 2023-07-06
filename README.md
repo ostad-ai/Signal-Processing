@@ -7,3 +7,4 @@
 6) **Fourier series**: **Exponential** and **sine-cosine** forms with some examples are included.
 7) Using **z-transform** for implementing **convolution**.
 8) **Discrete-time Fourier transform** (DTFT) is expressed along with some Python code.
+9) **Continuous-time Fourier transform** (CTFT) is mentioned here. Also, an example in Python code is included.
