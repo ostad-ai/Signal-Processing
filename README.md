@@ -9,3 +9,4 @@
 8) **Discrete-time Fourier transform** (DTFT) is expressed along with some Python code.
 9) **Continuous-time Fourier transform** (CTFT) is mentioned here. Also, an example in Python code is included.
 10) The **eigenfunctions** and **eigenvalues** for discrete-time LTI systems are demonstrated with z-transform and discrete-time Fourier transform(DTFT).
+11) This time, the **eigenfunctions** and **eigenvalues** for **continuous**-time LTI systems are demonstrated with bilateral Lpalace transform and continuous-time Fourier transform(CTFT).
